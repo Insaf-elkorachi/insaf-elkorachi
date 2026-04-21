@@ -148,14 +148,15 @@ class AIEngineer:
 ---
 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=insaf-elkorachi&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=0e75b6&icon_color=0e75b6&bg_color=0d1117&text_color=c9d1d9" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=insaf-elkorachi&show_icons=true&locale=en&hide_border=true&title_color=0e75b6&icon_color=0e75b6&bg_color=0d1117&text_color=c9d1d9" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insaf-elkorachi&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&background=0d1117&currStreakLabel=0e75b6&sideLabels=c9d1d9&dates=c9d1d9" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=insaf-elkorachi&hide_border=true&stroke=e91e8c&ring=e91e8c&fire=ff6eb4&background=ffffff&currStreakLabel=e91e8c&sideLabels=555555&dates=888888&sideNums=e91e8c&currStreakNum=e91e8c" alt="streak stats" />
 </p>
+
 
 ---
 
